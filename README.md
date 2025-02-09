@@ -24,11 +24,11 @@ The Energy Load Analysis project is designed to analyze electricity consumption 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/energy-load-analysis.git
+   git clone https://github.com/sathwikavardhineedi/LOAD-FORECASTING.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd energy-load-analysis
+   cd load-forecasting
    ```
 3. Install the required dependencies:
    ```bash
@@ -53,5 +53,5 @@ The Energy Load Analysis project is designed to analyze electricity consumption 
 - Integrate external weather and economic factors for more in-depth insights.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
